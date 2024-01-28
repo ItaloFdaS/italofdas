@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-O meu nome é Italo Felipe, tenho 30 anos, atualmente sou Analista de Suprimentos e estou estudando para ser programador Full Stack, estou aprendendo com o Rodolfo Mori e criando projetos com:
+O meu nome é Italo Felipe, tenho 30 anos, atualmente sou Analista de Suprimentos e estou estudando para ser programador Full Stack, estou aprendendo com o <a href="https://rodolfomori.com.br/devclub/">Rodolfo Mori</a> e criando projetos com:
 <br>
 <br>
 -<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html-Logo">
