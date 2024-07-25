@@ -1,24 +1,76 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-O meu nome é Italo Felipe, tenho 30 anos, atualmente sou Analista de Suprimentos e estou estudando para ser programador Full Stack, estou aprendendo com o <a href="https://rodolfomori.com.br/devclub/">Rodolfo Mori</a> e criando projetos com:
-<br>
-<br>
--<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html-Logo">
-<br>
-<br>
--<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Css-Logo">
-<br>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Logo-Java"> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-React">. 
-<br>
-<br>
--Conecte comigo no  <a href="https://www.linkedin.com/in/italo-felipe26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>.
-<br>
-<br>
--Aguardo com todo o meu coração uma oportunidade para ingressar na área e mostrar que posso ser um excelente profissional, sou apaixonado pela programação.
-<br>
-<br>
+###
 
-![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italofdas&show_icons=true&theme=radical)
+<p align="left">👋 Hello! Welcome to my Github profile.<br>## My name is Italo Felipe!</p>
 
+###
 
+<h2 align="left">- Atualmente estou à procura da minha oportunidade como desenvolvedor Full-Stack. Quero fazer transição de carreira da área de Analista de Suprimentos para a área de desenvolvedor/programador</h2>
+
+###
+
+<p align="left">- 🔭 Atualmente estou trabalhando em projetos particulares para criar portfólio.<br>- 🌱 Atualmente estou aprendendo back-end banco relacional PostgressSQL com Sequelize ORM e não relacional MongoDB com Prisma/Mongoose. Próxima que pretendo iniciar é o Typescript.<br>- 🤔 Estou procurando ajuda com back-end.<br>- 📫 Como entrar em contato comigo: Linked-in <a>https://www.linkedin.com/in/italo-felipe26/<a/> ou Whatspp 31 99711-8187</p>
+
+###
+
+<h2 align="left">- HTML<br>- CSS<br>- JavaScript<br>- NodeJs<br>- React<br>- TypeScript<br>- PostgressSQL / Sequelize ORM<br>- MongoDB / Prisma/Mongoose ORM<br>- Docker<br>- Consumo de API's</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/italo-felipe26/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5531997118187" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="italofelipe26@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ItaloFdaS.ItaloFdaS&left_color=goldenrod&right_color=grey"  />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ItaloFdaS/ItaloFdaS/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItaloFdaS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloFdaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
