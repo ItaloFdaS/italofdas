@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">- Atualmente estou à procura da minha oportunidade como desenvolvedor Full-Stack. Quero fazer transição de carreira da área de Analista de Suprimentos para a área de desenvolvedor/programador</h2>
+<h2 align="left"> Voltando firme para fazer renda Extra!r</h2>
 
 ###
 
